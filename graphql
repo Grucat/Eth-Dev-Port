@@ -1,0 +1,13 @@
+Ethereum-Developer-Portfolio/
+│
+├── contracts/
+│   ├── HelloWorld.sol        # Sample Solidity smart contract
+│   └── YourContract.sol      # Your custom Solidity smart contract(s)
+│
+├── dapp/
+│   ├── index.html             # HTML file for the dApp interface
+│   ├── script.js              # JavaScript file for dApp functionality
+│   └── style.css              # CSS file for styling the dApp
+│
+├── README.md                  # Description of the repository and project
+└── LICENSE                    # License information for the project
